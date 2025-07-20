@@ -1,4 +1,4 @@
 *.blend
 *.blend1
 videos
-!tracks/tracks*.blend
+!tracks/track*.blend
